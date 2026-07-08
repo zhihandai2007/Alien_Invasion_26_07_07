@@ -1,2 +1,2 @@
-# Alien_Invasion_26_07_07
+# Argentina_vs_Egypt_26_07_08
 A game to help me learning python
